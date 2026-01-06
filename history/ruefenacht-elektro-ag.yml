@@ -1,7 +1,7 @@
 url: https://www.ruefenacht-elektro.ch
-status: up
-code: 200
-responseTime: 172
-lastUpdated: 2026-01-05T23:02:36.424Z
+status: down
+code: 500
+responseTime: 3195
+lastUpdated: 2026-01-06T20:25:00.790Z
 startTime: 2021-08-18T09:47:14.000Z
 generator: Upptime <https://github.com/upptime/upptime>
