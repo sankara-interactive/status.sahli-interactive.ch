@@ -12,7 +12,7 @@
     "uptimeYear": "99.72%",
     "time": 2055,
     "timeDay": 1251,
-    "timeWeek": 3498,
+    "timeWeek": 3608,
     "timeMonth": 2634,
     "timeYear": 2115,
     "dailyMinutesDown": {
@@ -78,7 +78,7 @@
     "uptimeYear": "99.93%",
     "time": 1772,
     "timeDay": 1667,
-    "timeWeek": 1426,
+    "timeWeek": 1399,
     "timeMonth": 1457,
     "timeYear": 1732,
     "dailyMinutesDown": {
@@ -106,7 +106,7 @@
     "uptimeYear": "99.93%",
     "time": 2608,
     "timeDay": 2212,
-    "timeWeek": 2116,
+    "timeWeek": 2157,
     "timeMonth": 2287,
     "timeYear": 2534,
     "dailyMinutesDown": {
@@ -134,7 +134,7 @@
     "uptimeYear": "99.94%",
     "time": 261,
     "timeDay": 492,
-    "timeWeek": 403,
+    "timeWeek": 421,
     "timeMonth": 391,
     "timeYear": 281,
     "dailyMinutesDown": {
@@ -156,16 +156,17 @@
     "slug": "cerletti-immobilien",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.27%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.97%",
+    "uptimeDay": "99.22%",
+    "uptimeWeek": "99.16%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.96%",
     "time": 381,
     "timeDay": 309,
     "timeWeek": 406,
     "timeMonth": 389,
     "timeYear": 399,
     "dailyMinutesDown": {
+      "2026-01-17": 11,
       "2026-01-15": 73,
       "2025-11-18": 104
     }
@@ -177,9 +178,9 @@
     "slug": "christen-gartenbau-ag",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.30%",
-    "uptimeMonth": "99.84%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.21%",
+    "uptimeMonth": "99.82%",
     "uptimeYear": "99.96%",
     "time": 441,
     "timeDay": 438,
@@ -187,6 +188,7 @@
     "timeMonth": 504,
     "timeYear": 450,
     "dailyMinutesDown": {
+      "2026-01-17": 10,
       "2026-01-15": 70,
       "2025-11-18": 123
     }
@@ -261,7 +263,7 @@
     "uptimeYear": "99.96%",
     "time": 241,
     "timeDay": 220,
-    "timeWeek": 255,
+    "timeWeek": 285,
     "timeMonth": 250,
     "timeYear": 255,
     "dailyMinutesDown": {
@@ -278,9 +280,9 @@
     "slug": "fairmed-kamerun",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.71%",
-    "uptimeWeek": "99.15%",
-    "uptimeMonth": "99.80%",
+    "uptimeDay": "98.13%",
+    "uptimeWeek": "99.07%",
+    "uptimeMonth": "99.79%",
     "uptimeYear": "99.96%",
     "time": 1293,
     "timeDay": 1439,
@@ -288,6 +290,7 @@
     "timeMonth": 1608,
     "timeYear": 1328,
     "dailyMinutesDown": {
+      "2026-01-17": 8,
       "2026-01-16": 19,
       "2026-01-15": 67,
       "2025-11-18": 113
@@ -300,9 +303,9 @@
     "slug": "fairmed-nepal",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.81%",
-    "uptimeWeek": "99.19%",
-    "uptimeMonth": "99.81%",
+    "uptimeDay": "98.33%",
+    "uptimeWeek": "99.13%",
+    "uptimeMonth": "99.80%",
     "uptimeYear": "99.96%",
     "time": 1575,
     "timeDay": 1831,
@@ -310,6 +313,7 @@
     "timeMonth": 1944,
     "timeYear": 1614,
     "dailyMinutesDown": {
+      "2026-01-17": 7,
       "2026-01-16": 17,
       "2026-01-15": 64,
       "2025-11-18": 137
@@ -322,9 +326,9 @@
     "slug": "fairmed-sri-lanka",
     "status": "up",
     "uptime": "99.29%",
-    "uptimeDay": "98.91%",
-    "uptimeWeek": "99.24%",
-    "uptimeMonth": "99.82%",
+    "uptimeDay": "98.54%",
+    "uptimeWeek": "99.18%",
+    "uptimeMonth": "99.81%",
     "uptimeYear": "99.96%",
     "time": 2586,
     "timeDay": 2794,
@@ -332,6 +336,7 @@
     "timeMonth": 2612,
     "timeYear": 2577,
     "dailyMinutesDown": {
+      "2026-01-17": 5,
       "2026-01-16": 16,
       "2026-01-15": 61,
       "2025-11-18": 114
@@ -350,7 +355,7 @@
     "uptimeYear": "99.95%",
     "time": 955,
     "timeDay": 876,
-    "timeWeek": 953,
+    "timeWeek": 976,
     "timeMonth": 1092,
     "timeYear": 981,
     "dailyMinutesDown": {
@@ -370,7 +375,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/shop.farbwerkag.ch.ico",
     "slug": "farbwerk-herren-online-shop",
     "status": "up",
-    "uptime": "35.72%",
+    "uptime": "35.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -685,9 +690,9 @@
     "slug": "glas-werkstatt-kraeuchi",
     "status": "up",
     "uptime": "99.34%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.42%",
-    "uptimeMonth": "99.87%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "99.38%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.97%",
     "time": 571,
     "timeDay": 533,
@@ -695,6 +700,7 @@
     "timeMonth": 613,
     "timeYear": 593,
     "dailyMinutesDown": {
+      "2026-01-17": 4,
       "2026-01-15": 58,
       "2025-11-18": 113
     }
@@ -706,9 +712,9 @@
     "slug": "goju-kan-bern-ag",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.00%",
-    "uptimeWeek": "99.17%",
-    "uptimeMonth": "99.81%",
+    "uptimeDay": "97.82%",
+    "uptimeWeek": "99.14%",
+    "uptimeMonth": "99.80%",
     "uptimeYear": "99.96%",
     "time": 487,
     "timeDay": 491,
@@ -716,7 +722,7 @@
     "timeMonth": 761,
     "timeYear": 495,
     "dailyMinutesDown": {
-      "2026-01-17": 29,
+      "2026-01-17": 32,
       "2026-01-15": 55,
       "2025-11-18": 105
     }
@@ -756,7 +762,7 @@
     "uptimeYear": "99.95%",
     "time": 430,
     "timeDay": 257,
-    "timeWeek": 437,
+    "timeWeek": 466,
     "timeMonth": 419,
     "timeYear": 401,
     "dailyMinutesDown": {
@@ -783,7 +789,7 @@
     "uptimeYear": "99.96%",
     "time": 202,
     "timeDay": 218,
-    "timeWeek": 235,
+    "timeWeek": 242,
     "timeMonth": 244,
     "timeYear": 207,
     "dailyMinutesDown": {
@@ -824,8 +830,8 @@
     "slug": "huldi-stucki-ag",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.66%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.65%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.97%",
     "time": 572,
@@ -834,6 +840,7 @@
     "timeMonth": 567,
     "timeYear": 548,
     "dailyMinutesDown": {
+      "2026-01-17": 1,
       "2026-01-15": 34,
       "2025-11-18": 131
     }
@@ -863,18 +870,19 @@
     "url": "https://www.insecor.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.insecor.ch.ico",
     "slug": "insecor",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.61%",
-    "uptimeMonth": "99.44%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.43%",
     "uptimeYear": "99.57%",
     "time": 963,
     "timeDay": 886,
     "timeWeek": 993,
-    "timeMonth": 1056,
+    "timeMonth": 1054,
     "timeYear": 969,
     "dailyMinutesDown": {
+      "2026-01-17": 2,
       "2026-01-12": 39,
       "2026-01-09": 19,
       "2026-01-05": 61,
@@ -936,7 +944,7 @@
     "uptimeYear": "99.96%",
     "time": 447,
     "timeDay": 330,
-    "timeWeek": 422,
+    "timeWeek": 425,
     "timeMonth": 460,
     "timeYear": 443,
     "dailyMinutesDown": {
@@ -989,7 +997,7 @@
     "uptimeYear": "99.47%",
     "time": 1092,
     "timeDay": 548,
-    "timeWeek": 913,
+    "timeWeek": 957,
     "timeMonth": 1193,
     "timeYear": 1211,
     "dailyMinutesDown": {
@@ -1061,7 +1069,7 @@
     "uptimeYear": "99.96%",
     "time": 404,
     "timeDay": 568,
-    "timeWeek": 334,
+    "timeWeek": 340,
     "timeMonth": 372,
     "timeYear": 364,
     "dailyMinutesDown": {
@@ -1106,7 +1114,7 @@
     "uptimeYear": "99.90%",
     "time": 496,
     "timeDay": 182,
-    "timeWeek": 540,
+    "timeWeek": 470,
     "timeMonth": 427,
     "timeYear": 514,
     "dailyMinutesDown": {
@@ -1127,18 +1135,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.philosophie.ch.ico",
     "slug": "philosophie-ch",
     "status": "down",
-    "uptime": "87.97%",
+    "uptime": "87.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "54.22%",
+    "uptimeYear": "54.02%",
     "time": 1504,
     "timeDay": 162,
     "timeWeek": 212,
     "timeMonth": 200,
     "timeYear": 1592,
     "dailyMinutesDown": {
-      "2026-01-17": 72,
+      "2026-01-17": 1138,
       "2026-01-16": 1440,
       "2026-01-15": 1440,
       "2026-01-14": 1440,
@@ -1350,7 +1358,7 @@
     "uptimeYear": "99.96%",
     "time": 721,
     "timeDay": 764,
-    "timeWeek": 673,
+    "timeWeek": 664,
     "timeMonth": 921,
     "timeYear": 731,
     "dailyMinutesDown": {
@@ -1399,7 +1407,7 @@
     "uptimeYear": "99.96%",
     "time": 842,
     "timeDay": 871,
-    "timeWeek": 1092,
+    "timeWeek": 1096,
     "timeMonth": 1046,
     "timeYear": 846,
     "dailyMinutesDown": {
@@ -1424,7 +1432,7 @@
     "uptimeYear": "99.97%",
     "time": 247,
     "timeDay": 271,
-    "timeWeek": 346,
+    "timeWeek": 315,
     "timeMonth": 282,
     "timeYear": 238,
     "dailyMinutesDown": {
@@ -1466,7 +1474,7 @@
     "uptimeYear": "99.90%",
     "time": 1086,
     "timeDay": 788,
-    "timeWeek": 848,
+    "timeWeek": 851,
     "timeMonth": 829,
     "timeYear": 1072,
     "dailyMinutesDown": {
@@ -1513,7 +1521,7 @@
     "uptimeYear": "99.96%",
     "time": 169,
     "timeDay": 324,
-    "timeWeek": 165,
+    "timeWeek": 164,
     "timeMonth": 196,
     "timeYear": 174,
     "dailyMinutesDown": {
@@ -1602,7 +1610,7 @@
     "uptimeYear": "99.91%",
     "time": 390,
     "timeDay": 257,
-    "timeWeek": 429,
+    "timeWeek": 430,
     "timeMonth": 406,
     "timeYear": 398,
     "dailyMinutesDown": {
@@ -1671,7 +1679,7 @@
     "uptimeYear": "99.97%",
     "time": 233,
     "timeDay": 151,
-    "timeWeek": 286,
+    "timeWeek": 300,
     "timeMonth": 283,
     "timeYear": 240,
     "dailyMinutesDown": {
@@ -1696,7 +1704,7 @@
     "uptimeYear": "99.96%",
     "time": 152,
     "timeDay": 294,
-    "timeWeek": 160,
+    "timeWeek": 171,
     "timeMonth": 175,
     "timeYear": 155,
     "dailyMinutesDown": {
