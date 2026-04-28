@@ -111,10 +111,6 @@ sites:
     url: https://www.koor-baumanagement.ch
     assignees:
       - peperoli
-  - name: "M & T Schreinerei GmbH"
-    url: https://www.mt-schreinerei.ch
-    assignees:
-      - m43nu
   - name: "Malerei Zimmermann"
     url: https://www.zimal.ch
     assignees:
