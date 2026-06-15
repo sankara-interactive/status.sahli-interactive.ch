@@ -361,7 +361,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "63.13%",
+    "uptimeYear": "63.14%",
     "time": 986,
     "timeDay": 481,
     "timeWeek": 690,
@@ -737,10 +737,10 @@
     "slug": "insecor",
     "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "97.12%",
-    "uptimeMonth": "94.06%",
-    "uptimeYear": "98.51%",
+    "uptimeDay": "96.62%",
+    "uptimeWeek": "96.65%",
+    "uptimeMonth": "93.95%",
+    "uptimeYear": "98.50%",
     "time": 990,
     "timeDay": 879,
     "timeWeek": 954,
@@ -814,7 +814,7 @@
       "2026-06-09": 83,
       "2026-06-12": 123,
       "2026-06-13": 83,
-      "2026-06-15": 2
+      "2026-06-15": 49
     }
   },
   {
