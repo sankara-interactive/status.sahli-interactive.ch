@@ -355,11 +355,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/shop.farbwerkag.ch.ico",
     "slug": "farbwerk-herren-online-shop",
     "status": "up",
-    "uptime": "55.02%",
+    "uptime": "55.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "69.43%",
+    "uptimeYear": "69.46%",
     "time": 971,
     "timeDay": 1199,
     "timeWeek": 935,
@@ -1034,11 +1034,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.sankara-interactive.ch.ico",
     "slug": "sankara-interactive",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.87%",
+    "uptimeDay": "88.21%",
+    "uptimeWeek": "98.32%",
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "99.87%",
     "time": 1704,
     "timeDay": 1921,
     "timeWeek": 1988,
@@ -1046,7 +1046,7 @@
     "timeYear": 1704,
     "dailyMinutesDown": {
       "2026-04-29": 38,
-      "2026-07-08": 2
+      "2026-07-08": 170
     }
   },
   {
