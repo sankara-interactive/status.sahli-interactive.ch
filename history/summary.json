@@ -355,11 +355,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/shop.farbwerkag.ch.ico",
     "slug": "farbwerk-herren-online-shop",
     "status": "up",
-    "uptime": "56.34%",
+    "uptime": "56.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "74.19%",
+    "uptimeYear": "74.21%",
     "time": 972,
     "timeDay": 819,
     "timeWeek": 933,
@@ -651,10 +651,10 @@
     "slug": "huldi-stucki-ag",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "96.00%",
-    "uptimeWeek": "99.43%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.94%",
+    "uptimeDay": "88.60%",
+    "uptimeWeek": "98.37%",
+    "uptimeMonth": "99.63%",
+    "uptimeYear": "99.92%",
     "time": 710,
     "timeDay": 26973,
     "timeWeek": 7158,
@@ -665,7 +665,7 @@
       "2026-01-15": 34,
       "2026-01-17": 118,
       "2026-07-24": 56,
-      "2026-07-25": 1
+      "2026-07-25": 108
     }
   },
   {
@@ -988,10 +988,10 @@
     "url": "https://www.ruefenacht-elektro.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.ruefenacht-elektro.ch.ico",
     "slug": "ruefenacht-elektro-ag",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.94%",
     "time": 342,
@@ -1006,7 +1006,8 @@
       "2026-05-19": 31,
       "2026-06-06": 28,
       "2026-06-07": 83,
-      "2026-06-28": 21
+      "2026-06-28": 21,
+      "2026-07-25": 2
     }
   },
   {
