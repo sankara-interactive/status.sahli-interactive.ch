@@ -669,16 +669,16 @@
     "url": "https://www.insecor.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.insecor.ch.ico",
     "slug": "insecor",
-    "status": "down",
+    "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "98.52%",
-    "uptimeMonth": "98.39%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "98.46%",
+    "uptimeMonth": "98.38%",
     "uptimeYear": "98.41%",
     "time": 1003,
-    "timeDay": 863,
-    "timeWeek": 1246,
-    "timeMonth": 1089,
+    "timeDay": 849,
+    "timeWeek": 1220,
+    "timeMonth": 1084,
     "timeYear": 1017,
     "dailyMinutesDown": {
       "2026-03-11": 53,
@@ -749,7 +749,7 @@
       "2026-08-12": 52,
       "2026-08-13": 17,
       "2026-08-16": 23,
-      "2026-08-18": 11
+      "2026-08-18": 16
     }
   },
   {
@@ -1082,9 +1082,9 @@
     "slug": "schnyder-werbung",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "73.30%",
-    "uptimeWeek": "94.98%",
-    "uptimeMonth": "98.85%",
+    "uptimeDay": "72.86%",
+    "uptimeWeek": "94.92%",
+    "uptimeMonth": "98.83%",
     "uptimeYear": "99.90%",
     "time": 1247,
     "timeDay": 1046,
@@ -1095,7 +1095,7 @@
       "2026-02-20": 16,
       "2026-08-14": 100,
       "2026-08-15": 22,
-      "2026-08-18": 18,
+      "2026-08-18": 25,
       "2026-08-17": 366
     }
   },
