@@ -328,11 +328,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/shop.farbwerkag.ch.ico",
     "slug": "farbwerk-herren-online-shop",
     "status": "up",
-    "uptime": "59.06%",
+    "uptime": "59.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "84.90%",
+    "uptimeYear": "84.94%",
     "time": 971,
     "timeDay": 1062,
     "timeWeek": 1167,
@@ -579,12 +579,12 @@
     "uptime": "99.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.43%",
+    "uptimeMonth": "97.65%",
     "uptimeYear": "99.45%",
     "time": 1523,
     "timeDay": 720,
     "timeWeek": 736,
-    "timeMonth": 6142,
+    "timeMonth": 4058,
     "timeYear": 1793,
     "dailyMinutesDown": {
       "2025-11-18": 131,
@@ -623,9 +623,9 @@
     "slug": "insecor",
     "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "97.81%",
-    "uptimeWeek": "99.18%",
-    "uptimeMonth": "99.09%",
+    "uptimeDay": "98.65%",
+    "uptimeWeek": "99.30%",
+    "uptimeMonth": "99.11%",
     "uptimeYear": "98.97%",
     "time": 1012,
     "timeDay": 1131,
@@ -633,7 +633,7 @@
     "timeMonth": 1082,
     "timeYear": 1019,
     "dailyMinutesDown": {
-      "2026-03-16": 28,
+      "2026-03-16": 55,
       "2026-03-17": 44,
       "2026-03-18": 35,
       "2026-03-20": 38,
@@ -703,7 +703,7 @@
       "2026-08-30": 19,
       "2026-08-31": 16,
       "2026-09-01": 15,
-      "2026-09-02": 31
+      "2026-09-02": 19
     }
   },
   {
@@ -1009,10 +1009,10 @@
     "url": "https://schnyder-werbung.ch",
     "icon": "https://icons.duckduckgo.com/ip3/schnyder-werbung.ch.ico",
     "slug": "schnyder-werbung",
-    "status": "up",
+    "status": "down",
     "uptime": "98.59%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
     "uptimeMonth": "72.53%",
     "uptimeYear": "97.71%",
     "time": 1239,
@@ -1033,7 +1033,8 @@
       "2026-08-20": 1440,
       "2026-08-19": 1440,
       "2026-08-18": 1440,
-      "2026-08-17": 366
+      "2026-08-17": 366,
+      "2026-09-02": 3
     }
   },
   {
