@@ -327,7 +327,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "87.55%",
+    "uptimeYear": "87.58%",
     "time": 979,
     "timeDay": 1986,
     "timeWeek": 1150,
@@ -606,17 +606,17 @@
     "slug": "insecor",
     "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "98.08%",
-    "uptimeWeek": "99.27%",
-    "uptimeMonth": "98.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.35%",
+    "uptimeMonth": "98.99%",
     "uptimeYear": "98.96%",
     "time": 1016,
-    "timeDay": 1007,
+    "timeDay": 1038,
     "timeWeek": 1014,
     "timeMonth": 1077,
     "timeYear": 1019,
     "dailyMinutesDown": {
-      "2026-03-21": 23,
+      "2026-03-21": 42,
       "2026-03-25": 165,
       "2026-03-27": 60,
       "2026-03-28": 28,
@@ -687,8 +687,7 @@
       "2026-09-04": 20,
       "2026-09-07": 29,
       "2026-09-10": 17,
-      "2026-09-11": 20,
-      "2026-09-12": 8
+      "2026-09-11": 20
     }
   },
   {
@@ -986,10 +985,10 @@
     "url": "https://schnyder-werbung.ch",
     "icon": "https://icons.duckduckgo.com/ip3/schnyder-werbung.ch.ico",
     "slug": "schnyder-werbung",
-    "status": "up",
+    "status": "down",
     "uptime": "98.61%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "72.53%",
     "uptimeYear": "97.71%",
     "time": 1240,
@@ -1010,7 +1009,8 @@
       "2026-08-20": 1440,
       "2026-08-19": 1440,
       "2026-08-18": 1440,
-      "2026-08-17": 366
+      "2026-08-17": 366,
+      "2026-09-12": 2
     }
   },
   {
