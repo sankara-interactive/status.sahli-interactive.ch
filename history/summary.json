@@ -1079,20 +1079,20 @@
     "url": "https://www.tecton.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.tecton.ch.ico",
     "slug": "tecton",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
-    "time": 1027,
-    "timeDay": 948,
-    "timeWeek": 1100,
-    "timeMonth": 996,
+    "time": 1028,
+    "timeDay": 1107,
+    "timeWeek": 1121,
+    "timeMonth": 1005,
     "timeYear": 1008,
     "dailyMinutesDown": {
       "2026-07-07": 50,
-      "2026-09-14": 2
+      "2026-09-14": 5
     }
   },
   {
