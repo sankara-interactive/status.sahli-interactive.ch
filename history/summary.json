@@ -14,7 +14,7 @@
     "timeDay": 1121,
     "timeWeek": 1123,
     "timeMonth": 1247,
-    "timeYear": 2129,
+    "timeYear": 2132,
     "dailyMinutesDown": {
       "2025-10-15": 111,
       "2025-10-20": 94,
@@ -67,7 +67,7 @@
     "timeDay": 1736,
     "timeWeek": 1999,
     "timeMonth": 2019,
-    "timeYear": 1841,
+    "timeYear": 1844,
     "dailyMinutesDown": {
       "2025-11-02": 9,
       "2025-11-25": 16,
@@ -90,7 +90,7 @@
     "timeDay": 1792,
     "timeWeek": 1099,
     "timeMonth": 1238,
-    "timeYear": 1748,
+    "timeYear": 1747,
     "dailyMinutesDown": {
       "2025-11-02": 9,
       "2025-12-16": 44,
@@ -214,7 +214,7 @@
     "timeDay": 435,
     "timeWeek": 322,
     "timeMonth": 292,
-    "timeYear": 277,
+    "timeYear": 278,
     "dailyMinutesDown": {
       "2025-10-20": 29,
       "2025-11-02": 9,
@@ -323,11 +323,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/shop.farbwerkag.ch.ico",
     "slug": "farbwerk-herren-online-shop",
     "status": "up",
-    "uptime": "60.21%",
+    "uptime": "60.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "89.89%",
+    "uptimeYear": "89.96%",
     "time": 978,
     "timeDay": 1298,
     "timeWeek": 836,
@@ -416,7 +416,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.kraeuchi.ch.ico",
     "slug": "glas-werkstatt-kraeuchi",
     "status": "up",
-    "uptime": "99.21%",
+    "uptime": "99.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -596,15 +596,15 @@
     "url": "https://www.insecor.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.insecor.ch.ico",
     "slug": "insecor",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "97.81%",
-    "uptimeWeek": "99.14%",
-    "uptimeMonth": "99.09%",
+    "uptimeDay": "98.67%",
+    "uptimeWeek": "99.26%",
+    "uptimeMonth": "99.11%",
     "uptimeYear": "98.98%",
     "time": 1020,
     "timeDay": 1060,
-    "timeWeek": 1013,
+    "timeWeek": 997,
     "timeMonth": 1035,
     "timeYear": 1016,
     "dailyMinutesDown": {
@@ -681,7 +681,7 @@
       "2026-09-11": 20,
       "2026-09-14": 17,
       "2026-09-15": 38,
-      "2026-09-20": 31
+      "2026-09-20": 19
     }
   },
   {
@@ -857,7 +857,7 @@
     "timeDay": 1412,
     "timeWeek": 1104,
     "timeMonth": 1178,
-    "timeYear": 1020,
+    "timeYear": 1021,
     "dailyMinutesDown": {
       "2025-11-02": 9,
       "2025-11-07": 17,
@@ -967,7 +967,7 @@
     "timeDay": 1941,
     "timeWeek": 1450,
     "timeMonth": 1008,
-    "timeYear": 871,
+    "timeYear": 872,
     "dailyMinutesDown": {
       "2025-11-02": 9,
       "2025-12-16": 44
@@ -982,11 +982,11 @@
     "uptime": "98.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "82.39%",
+    "uptimeMonth": "83.24%",
     "uptimeYear": "97.71%",
     "time": 1243,
     "timeDay": 1077,
-    "timeWeek": 1246,
+    "timeWeek": 1251,
     "timeMonth": 1179,
     "timeYear": 1255,
     "dailyMinutesDown": {
@@ -1020,7 +1020,7 @@
     "timeDay": 235,
     "timeWeek": 217,
     "timeMonth": 236,
-    "timeYear": 203,
+    "timeYear": 202,
     "dailyMinutesDown": {
       "2025-10-20": 30,
       "2025-11-02": 9,
