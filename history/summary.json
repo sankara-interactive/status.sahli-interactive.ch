@@ -327,7 +327,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "90.19%",
+    "uptimeYear": "90.20%",
     "time": 977,
     "timeDay": 787,
     "timeWeek": 867,
@@ -720,7 +720,7 @@
     "timeDay": 1046,
     "timeWeek": 841,
     "timeMonth": 929,
-    "timeYear": 1096,
+    "timeYear": 1076,
     "dailyMinutesDown": {
       "2025-09-22": 181,
       "2025-09-29": 163,
@@ -977,13 +977,13 @@
     "url": "https://schnyder-werbung.ch",
     "icon": "https://icons.duckduckgo.com/ip3/schnyder-werbung.ch.ico",
     "slug": "schnyder-werbung",
-    "status": "up",
+    "status": "down",
     "uptime": "98.63%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "86.03%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "86.19%",
     "uptimeYear": "97.71%",
-    "time": 1243,
+    "time": 1244,
     "timeDay": 1236,
     "timeWeek": 1316,
     "timeMonth": 1188,
@@ -1001,7 +1001,8 @@
       "2026-08-20": 1440,
       "2026-08-19": 1440,
       "2026-08-18": 1440,
-      "2026-08-17": 366
+      "2026-08-17": 366,
+      "2026-09-21": 2
     }
   },
   {
@@ -1138,11 +1139,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ursign.ch.ico",
     "slug": "ur-sign",
     "status": "down",
-    "uptime": "99.50%",
-    "uptimeDay": "60.27%",
-    "uptimeWeek": "94.32%",
-    "uptimeMonth": "98.65%",
-    "uptimeYear": "99.82%",
+    "uptime": "99.49%",
+    "uptimeDay": "55.32%",
+    "uptimeWeek": "93.62%",
+    "uptimeMonth": "98.49%",
+    "uptimeYear": "99.81%",
     "time": 2487,
     "timeDay": 2530,
     "timeWeek": 2204,
@@ -1157,7 +1158,7 @@
       "2026-02-24": 38,
       "2026-03-18": 22,
       "2026-08-26": 17,
-      "2026-09-21": 572
+      "2026-09-21": 643
     }
   },
   {
