@@ -327,7 +327,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "90.33%",
+    "uptimeYear": "90.35%",
     "time": 977,
     "timeDay": 1570,
     "timeWeek": 1032,
@@ -377,18 +377,20 @@
     "url": "https://www.ftem-karate.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.ftem-karate.ch.ico",
     "slug": "ftem-karate",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 1269,
     "timeDay": 1218,
     "timeWeek": 1251,
     "timeMonth": 1318,
     "timeYear": 1271,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-09-22": 7
+    }
   },
   {
     "name": "Germann Treuhand",
@@ -688,11 +690,11 @@
     "url": "https://www.koor-baumanagement.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.koor-baumanagement.ch.ico",
     "slug": "koor-baumanagement",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 447,
     "timeDay": 431,
@@ -702,7 +704,8 @@
     "dailyMinutesDown": {
       "2025-10-20": 17,
       "2025-11-02": 9,
-      "2025-12-16": 44
+      "2025-12-16": 44,
+      "2026-09-22": 5
     }
   },
   {
@@ -894,11 +897,11 @@
     "url": "https://www.sankara-interactive.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.sankara-interactive.ch.ico",
     "slug": "sankara-interactive",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.74%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.91%",
     "time": 1803,
     "timeDay": 1727,
@@ -907,7 +910,8 @@
     "timeYear": 1803,
     "dailyMinutesDown": {
       "2026-04-29": 38,
-      "2026-07-08": 214
+      "2026-07-08": 214,
+      "2026-09-22": 4
     }
   },
   {
@@ -935,10 +939,10 @@
     "url": "https://sahli.app",
     "icon": "https://icons.duckduckgo.com/ip3/sahli.app.ico",
     "slug": "sahli-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1069,
@@ -947,7 +951,8 @@
     "timeMonth": 1072,
     "timeYear": 1055,
     "dailyMinutesDown": {
-      "2026-07-14": 67
+      "2026-07-14": 67,
+      "2026-09-22": 2
     }
   },
   {
@@ -980,7 +985,7 @@
     "uptime": "98.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "87.70%",
+    "uptimeMonth": "87.96%",
     "uptimeYear": "97.71%",
     "time": 1242,
     "timeDay": 865,
@@ -1138,10 +1143,10 @@
     "slug": "ur-sign",
     "status": "down",
     "uptime": "99.47%",
-    "uptimeDay": "9.42%",
-    "uptimeWeek": "87.06%",
-    "uptimeMonth": "96.98%",
-    "uptimeYear": "99.68%",
+    "uptimeDay": "1.69%",
+    "uptimeWeek": "85.96%",
+    "uptimeMonth": "96.73%",
+    "uptimeYear": "99.66%",
     "time": 2484,
     "timeDay": 163,
     "timeWeek": 1873,
@@ -1156,7 +1161,7 @@
       "2026-02-24": 38,
       "2026-03-18": 22,
       "2026-08-26": 17,
-      "2026-09-22": 398,
+      "2026-09-22": 510,
       "2026-09-21": 906
     }
   },
