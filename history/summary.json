@@ -326,7 +326,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.18%",
+    "uptimeYear": "94.19%",
     "time": 983,
     "timeDay": 1054,
     "timeWeek": 1170,
@@ -583,9 +583,9 @@
     "slug": "insecor",
     "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "98.64%",
-    "uptimeMonth": "99.07%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.69%",
+    "uptimeMonth": "99.08%",
     "uptimeYear": "98.97%",
     "time": 1019,
     "timeDay": 1021,
@@ -593,7 +593,7 @@
     "timeMonth": 1014,
     "timeYear": 1015,
     "dailyMinutesDown": {
-      "2026-04-03": 18,
+      "2026-04-03": 35,
       "2026-04-04": 23,
       "2026-04-05": 30,
       "2026-04-06": 80,
@@ -668,8 +668,7 @@
       "2026-09-29": 25,
       "2026-09-30": 22,
       "2026-10-03": 51,
-      "2026-10-05": 59,
-      "2026-10-06": 5
+      "2026-10-05": 59
     }
   },
   {
@@ -789,23 +788,24 @@
     "url": "https://www.nuwa.swiss",
     "icon": "https://icons.duckduckgo.com/ip3/www.nuwa.swiss.ico",
     "slug": "nuwa",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "92.24%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "92.22%",
     "uptimeMonth": "98.21%",
     "uptimeYear": "99.83%",
     "time": 536,
-    "timeDay": 297,
-    "timeWeek": 261,
-    "timeMonth": 423,
-    "timeYear": 546,
+    "timeDay": 198,
+    "timeWeek": 245,
+    "timeMonth": 413,
+    "timeYear": 545,
     "dailyMinutesDown": {
       "2025-10-20": 37,
       "2025-11-02": 9,
       "2025-12-16": 44,
       "2026-10-02": 265,
-      "2026-10-01": 517
+      "2026-10-01": 517,
+      "2026-10-06": 2
     }
   },
   {
