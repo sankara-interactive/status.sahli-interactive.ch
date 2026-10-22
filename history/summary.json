@@ -937,17 +937,17 @@
     "url": "https://schnyder-werbung.ch",
     "icon": "https://icons.duckduckgo.com/ip3/schnyder-werbung.ch.ico",
     "slug": "schnyder-werbung",
-    "status": "down",
+    "status": "up",
     "uptime": "98.69%",
-    "uptimeDay": "96.79%",
-    "uptimeWeek": "99.54%",
-    "uptimeMonth": "99.86%",
+    "uptimeDay": "96.58%",
+    "uptimeWeek": "99.51%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "97.70%",
     "time": 1242,
-    "timeDay": 947,
-    "timeWeek": 1134,
-    "timeMonth": 1184,
-    "timeYear": 1251,
+    "timeDay": 912,
+    "timeWeek": 1105,
+    "timeMonth": 1175,
+    "timeYear": 1250,
     "dailyMinutesDown": {
       "2026-02-20": 16,
       "2026-08-14": 100,
@@ -963,7 +963,7 @@
       "2026-08-18": 1440,
       "2026-08-17": 366,
       "2026-09-26": 16,
-      "2026-10-22": 46
+      "2026-10-22": 49
     }
   },
   {
@@ -1102,7 +1102,7 @@
     "uptime": "99.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.17%",
+    "uptimeMonth": "98.18%",
     "uptimeYear": "99.34%",
     "time": 2430,
     "timeDay": 399,
