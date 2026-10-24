@@ -322,7 +322,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.11%",
+    "uptimeYear": "99.13%",
     "time": 984,
     "timeDay": 666,
     "timeWeek": 977,
@@ -566,7 +566,7 @@
     "uptimeYear": "98.99%",
     "time": 1015,
     "timeDay": 1023,
-    "timeWeek": 1064,
+    "timeWeek": 1055,
     "timeMonth": 1008,
     "timeYear": 1017,
     "dailyMinutesDown": {
@@ -674,13 +674,13 @@
     "url": "https://www.zimal.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.zimal.ch.ico",
     "slug": "malerei-zimmermann",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 1173,
+    "time": 1174,
     "timeDay": 4135,
     "timeWeek": 1850,
     "timeMonth": 1115,
@@ -695,7 +695,7 @@
       "2025-12-16": 44,
       "2025-12-25": 39,
       "2026-08-31": 56,
-      "2026-10-24": 11
+      "2026-10-24": 2
     }
   },
   {
