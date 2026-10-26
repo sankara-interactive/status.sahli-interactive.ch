@@ -322,7 +322,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.56%",
+    "uptimeYear": "99.58%",
     "time": 983,
     "timeDay": 872,
     "timeWeek": 1013,
@@ -330,7 +330,6 @@
     "timeYear": 951,
     "dailyMinutesDown": {
       "2025-10-27": 805,
-      "2025-10-26": 1440,
       "2025-12-05": 27
     }
   },
@@ -541,7 +540,7 @@
     "slug": "initiative-schweiz",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "0.98%",
+    "uptimeDay": "5.77%",
     "uptimeWeek": "85.85%",
     "uptimeMonth": "96.74%",
     "uptimeYear": "99.73%",
@@ -568,7 +567,7 @@
     "uptimeYear": "98.99%",
     "time": 1015,
     "timeDay": 1155,
-    "timeWeek": 1095,
+    "timeWeek": 1096,
     "timeMonth": 1011,
     "timeYear": 1018,
     "dailyMinutesDown": {
