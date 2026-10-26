@@ -14,7 +14,7 @@
     "timeDay": 1050,
     "timeWeek": 1064,
     "timeMonth": 1068,
-    "timeYear": 1996,
+    "timeYear": 1995,
     "dailyMinutesDown": {
       "2025-10-28": 581,
       "2025-10-27": 39,
@@ -64,7 +64,7 @@
     "timeDay": 986,
     "timeWeek": 983,
     "timeMonth": 1317,
-    "timeYear": 1843,
+    "timeYear": 1844,
     "dailyMinutesDown": {
       "2025-11-02": 9,
       "2025-11-25": 16,
@@ -87,7 +87,7 @@
     "timeDay": 689,
     "timeWeek": 1408,
     "timeMonth": 1402,
-    "timeYear": 1661,
+    "timeYear": 1659,
     "dailyMinutesDown": {
       "2025-11-02": 9,
       "2025-12-16": 44,
@@ -105,11 +105,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 363,
+    "time": 383,
     "timeDay": 350,
     "timeWeek": 446,
     "timeMonth": 430,
-    "timeYear": 374,
+    "timeYear": 373,
     "dailyMinutesDown": {
       "2025-11-02": 9,
       "2025-12-16": 44
@@ -210,7 +210,7 @@
     "timeDay": 205,
     "timeWeek": 399,
     "timeMonth": 363,
-    "timeYear": 277,
+    "timeYear": 276,
     "dailyMinutesDown": {
       "2025-11-02": 9,
       "2025-11-18": 105,
@@ -306,7 +306,7 @@
     "timeDay": 471,
     "timeWeek": 744,
     "timeMonth": 902,
-    "timeYear": 936,
+    "timeYear": 934,
     "dailyMinutesDown": {
       "2025-11-02": 9,
       "2025-12-16": 44
@@ -456,7 +456,7 @@
     "timeDay": 368,
     "timeWeek": 463,
     "timeMonth": 507,
-    "timeYear": 439,
+    "timeYear": 438,
     "dailyMinutesDown": {
       "2025-11-02": 9,
       "2025-12-16": 44,
@@ -540,7 +540,7 @@
     "slug": "initiative-schweiz",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "86.34%",
+    "uptimeDay": "87.21%",
     "uptimeWeek": "85.85%",
     "uptimeMonth": "96.74%",
     "uptimeYear": "99.73%",
@@ -685,7 +685,7 @@
     "timeDay": 960,
     "timeWeek": 1666,
     "timeMonth": 1100,
-    "timeYear": 1011,
+    "timeYear": 1010,
     "dailyMinutesDown": {
       "2025-10-29": 156,
       "2025-11-01": 42,
@@ -731,7 +731,7 @@
     "timeDay": 350,
     "timeWeek": 377,
     "timeMonth": 371,
-    "timeYear": 383,
+    "timeYear": 381,
     "dailyMinutesDown": {
       "2025-11-02": 9,
       "2025-12-16": 44,
@@ -771,7 +771,7 @@
     "timeDay": 330,
     "timeWeek": 326,
     "timeMonth": 436,
-    "timeYear": 539,
+    "timeYear": 538,
     "dailyMinutesDown": {
       "2025-11-02": 9,
       "2025-12-16": 44,
@@ -816,7 +816,7 @@
     "timeDay": 1067,
     "timeWeek": 1041,
     "timeMonth": 1116,
-    "timeYear": 1065,
+    "timeYear": 1055,
     "dailyMinutesDown": {
       "2025-11-02": 9,
       "2025-11-07": 17,
@@ -936,17 +936,17 @@
     "url": "https://schnyder-werbung.ch",
     "icon": "https://icons.duckduckgo.com/ip3/schnyder-werbung.ch.ico",
     "slug": "schnyder-werbung",
-    "status": "down",
+    "status": "up",
     "uptime": "98.69%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.54%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "97.70%",
+    "uptimeDay": "99.08%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "97.69%",
     "time": 1234,
-    "timeDay": 1128,
-    "timeWeek": 1085,
-    "timeMonth": 1116,
-    "timeYear": 1249,
+    "timeDay": 1104,
+    "timeWeek": 1084,
+    "timeMonth": 1115,
+    "timeYear": 1248,
     "dailyMinutesDown": {
       "2026-02-20": 16,
       "2026-08-14": 100,
@@ -963,7 +963,7 @@
       "2026-08-17": 366,
       "2026-09-26": 16,
       "2026-10-22": 44,
-      "2026-10-26": 3
+      "2026-10-26": 13
     }
   },
   {
