@@ -316,7 +316,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/shop.farbwerkag.ch.ico",
     "slug": "farbwerk-herren-online-shop",
     "status": "up",
-    "uptime": "62.49%",
+    "uptime": "62.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -933,13 +933,13 @@
     "url": "https://schnyder-werbung.ch",
     "icon": "https://icons.duckduckgo.com/ip3/schnyder-werbung.ch.ico",
     "slug": "schnyder-werbung",
-    "status": "up",
+    "status": "down",
     "uptime": "98.70%",
-    "uptimeDay": "97.64%",
-    "uptimeWeek": "99.66%",
+    "uptimeDay": "97.45%",
+    "uptimeWeek": "99.64%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "97.69%",
-    "time": 1268,
+    "time": 1267,
     "timeDay": 6226,
     "timeWeek": 2949,
     "timeMonth": 1656,
@@ -960,7 +960,8 @@
       "2026-08-17": 366,
       "2026-09-26": 16,
       "2026-10-22": 44,
-      "2026-10-29": 34
+      "2026-10-29": 34,
+      "2026-10-30": 3
     }
   },
   {
