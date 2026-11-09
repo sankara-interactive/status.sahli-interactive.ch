@@ -114,9 +114,9 @@
     "slug": "cerletti-immobilien",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 389,
     "timeDay": 407,
@@ -126,8 +126,7 @@
     "dailyMinutesDown": {
       "2025-11-18": 104,
       "2026-01-15": 73,
-      "2026-01-17": 148,
-      "2026-11-09": 9
+      "2026-01-17": 148
     }
   },
   {
@@ -309,7 +308,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/shop.farbwerkag.ch.ico",
     "slug": "farbwerk-herren-online-shop",
     "status": "up",
-    "uptime": "63.03%",
+    "uptime": "63.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -547,19 +546,19 @@
     "url": "https://www.insecor.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.insecor.ch.ico",
     "slug": "insecor",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.51%",
-    "uptimeYear": "99.01%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.56%",
+    "uptimeYear": "99.02%",
     "time": 1014,
-    "timeDay": 891,
+    "timeDay": 908,
     "timeWeek": 985,
-    "timeMonth": 1016,
+    "timeMonth": 1018,
     "timeYear": 1016,
     "dailyMinutesDown": {
-      "2026-04-21": 90,
+      "2026-04-21": 28,
       "2026-04-22": 75,
       "2026-04-25": 56,
       "2026-05-01": 44,
@@ -634,7 +633,8 @@
       "2026-10-19": 32,
       "2026-10-20": 18,
       "2026-10-27": 38,
-      "2026-11-03": 5
+      "2026-11-03": 5,
+      "2026-11-09": 2
     }
   },
   {
@@ -673,7 +673,7 @@
     "timeDay": 543,
     "timeWeek": 850,
     "timeMonth": 1075,
-    "timeYear": 889,
+    "timeYear": 879,
     "dailyMinutesDown": {
       "2025-12-16": 44,
       "2025-12-25": 39,
@@ -914,7 +914,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/schnyder-werbung.ch.ico",
     "slug": "schnyder-werbung",
     "status": "up",
-    "uptime": "98.71%",
+    "uptime": "98.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.79%",
