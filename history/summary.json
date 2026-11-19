@@ -537,15 +537,15 @@
     "url": "https://www.insecor.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.insecor.ch.ico",
     "slug": "insecor",
-    "status": "down",
+    "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "90.64%",
-    "uptimeMonth": "97.71%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "90.62%",
+    "uptimeMonth": "97.70%",
     "uptimeYear": "98.84%",
     "time": 1014,
-    "timeDay": 1026,
-    "timeWeek": 1008,
+    "timeDay": 1018,
+    "timeWeek": 1007,
     "timeMonth": 1007,
     "timeYear": 1014,
     "dailyMinutesDown": {
@@ -625,7 +625,7 @@
       "2026-10-27": 38,
       "2026-11-03": 5,
       "2026-11-16": 941,
-      "2026-11-19": 2
+      "2026-11-19": 5
     }
   },
   {
