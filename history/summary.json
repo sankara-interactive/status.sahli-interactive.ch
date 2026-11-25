@@ -60,7 +60,6 @@
     "timeMonth": 828,
     "timeYear": 1750,
     "dailyMinutesDown": {
-      "2025-11-25": 16,
       "2025-12-16": 44,
       "2026-02-14": 16
     }
@@ -519,7 +518,7 @@
     "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.76%",
+    "uptimeMonth": "96.87%",
     "uptimeYear": "99.73%",
     "time": 1419,
     "timeDay": 1795,
@@ -538,16 +537,17 @@
     "slug": "insecor",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "97.73%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "97.75%",
     "uptimeYear": "98.84%",
     "time": 1014,
     "timeDay": 1019,
-    "timeWeek": 999,
+    "timeWeek": 993,
     "timeMonth": 989,
     "timeYear": 1010,
     "dailyMinutesDown": {
+      "2026-04-21": 28,
       "2026-04-22": 75,
       "2026-04-25": 56,
       "2026-05-01": 44,
@@ -623,8 +623,7 @@
       "2026-10-20": 18,
       "2026-10-27": 38,
       "2026-11-03": 5,
-      "2026-11-16": 941,
-      "2026-11-24": 11
+      "2026-11-16": 941
     }
   },
   {
