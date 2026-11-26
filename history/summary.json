@@ -28,19 +28,20 @@
     "url": "https://datenausgabe.aramis.admin.ch",
     "icon": "https://icons.duckduckgo.com/ip3/datenausgabe.aramis.admin.ch.ico",
     "slug": "aramis-sar-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1232,
-    "timeDay": 968,
-    "timeWeek": 2437,
-    "timeMonth": 1685,
+    "time": 1233,
+    "timeDay": 1039,
+    "timeWeek": 2338,
+    "timeMonth": 1673,
     "timeYear": 1289,
     "dailyMinutesDown": {
-      "2026-01-11": 153
+      "2026-01-11": 153,
+      "2026-11-26": 1
     }
   },
   {
@@ -300,7 +301,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/shop.farbwerkag.ch.ico",
     "slug": "farbwerk-herren-online-shop",
     "status": "up",
-    "uptime": "63.91%",
+    "uptime": "63.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -537,16 +538,17 @@
     "slug": "insecor",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "97.73%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "97.75%",
     "uptimeYear": "98.84%",
     "time": 1014,
-    "timeDay": 1026,
-    "timeWeek": 990,
+    "timeDay": 1028,
+    "timeWeek": 995,
     "timeMonth": 985,
     "timeYear": 1009,
     "dailyMinutesDown": {
+      "2026-04-21": 28,
       "2026-04-22": 75,
       "2026-04-25": 56,
       "2026-05-01": 44,
@@ -622,8 +624,7 @@
       "2026-10-20": 18,
       "2026-10-27": 38,
       "2026-11-03": 5,
-      "2026-11-16": 941,
-      "2026-11-26": 11
+      "2026-11-16": 941
     }
   },
   {
