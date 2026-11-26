@@ -28,20 +28,20 @@
     "url": "https://datenausgabe.aramis.admin.ch",
     "icon": "https://icons.duckduckgo.com/ip3/datenausgabe.aramis.admin.ch.ico",
     "slug": "aramis-sar-service",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.53%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
-    "time": 1233,
-    "timeDay": 1039,
-    "timeWeek": 2338,
-    "timeMonth": 1673,
-    "timeYear": 1289,
+    "time": 1232,
+    "timeDay": 1131,
+    "timeWeek": 2274,
+    "timeMonth": 1668,
+    "timeYear": 1290,
     "dailyMinutesDown": {
       "2026-01-11": 153,
-      "2026-11-26": 1
+      "2026-11-26": 21
     }
   },
   {
